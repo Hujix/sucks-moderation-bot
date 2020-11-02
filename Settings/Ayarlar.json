@@ -1,0 +1,52 @@
+{
+	"Owners": ["287211577273483266", "558016135052787773"],
+
+	"Kayıt": {
+		"Yetkiler":[],
+		"Kayıtsız": [],
+		"Log": ""
+	},
+	"Ban": {
+	  "Yetkiler": [],
+	  "Ban_Log": ""
+	},
+	"Mute":{
+		"MuteRol": [],
+		"SMuteRol": [],
+		"MuteLog": "",
+		"Yetkiler": []
+	},
+	"Jail":{
+		"Roller": [],
+		"Log": "",
+		"Yetkiler": [],
+        "Jail_Rol": ""
+	},
+	"Toplantı": {
+	    "Yetki": "",
+		"Rol": "",
+		"Kanal": ""
+	},
+	"Yetkiler": [
+		{ "id": "", "roller": [] }
+	], 
+	"Yönetici": [],
+
+	"Welcome": {
+		"Kayitsiz": "699600909138788412",
+		"Kanal": "699594384236347432",
+		"Bot_K": "699821772354355291",
+		"Şüpheli_Rol": "699594129335779348",
+		"ŞKanal": "699594436593713292"	  
+	},
+	"Sunucu": "719605751798038608",
+
+	"Tag": {
+		"Tag_Log_Kanal": "719605751798038611",
+		"Verilecek_Roller": ["720747846394970203"],
+		"TagRol": "720747846394970203",
+		"Alınacak_Roller": [],
+		"Tag1": "ϯ",
+		"Tag2": "-"
+	}
+}
